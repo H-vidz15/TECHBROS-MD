@@ -7,11 +7,11 @@ function convertToBool(text, truthy = 'true') {
 
 module.exports = {
     // SESSION & BOT INFO
-    SESSION_ID: process.env.SESSION_ID || "TECHBROS-MD~MFxh1Y6R#qVA0k-MhQRpGJSBYWNt-KNe85iRCxXjY7tFNcz1wzA8",
+    SESSION_ID: process.env.SESSION_ID || "DARK-SILENCE-MD~3IsmlD5J#ZQlzOnyML3WtSYybvER2Hotm_N-RKGPOdWDFg-XQsBQ",
     BOT_NAME: process.env.BOT_NAME || "TECHBROS MD",
     OWNER_NAME: process.env.OWNER_NAME || "TECH BROS",
     OWNER_NUMBER: process.env.OWNER_NUMBER || "27682708973", // Bot owner's number
-    DEV: process.env.DEV || "2349126807818",                // Developer's WhatsApp number
+    DEV: process.env.DEV || "2349076087791",                // Developer's WhatsApp number
 
     // REACTIONS & CAPTIONS
     HEART_REACT: process.env.HEART_REACT || "false",
